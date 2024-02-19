@@ -1,0 +1,42 @@
+body{
+    background-color: #7FC7D9;
+    font-family: 'Roboto Mono', monospace;
+
+}
+.nav-link{
+    color: #365486;
+}
+ul.nav a:hover { 
+    color: #DCF2F1;
+}
+.nav-pills .nav-link.active
+{
+    background-color: #0F1035;
+}
+hr{
+    height: 1px;
+    background-color: #DCF2F1;
+    border: none;
+}
+h1{
+
+    color:#365486;
+}
+li{
+
+    color: #0F1035;
+}
+span{
+    color:#D04848;
+}
+a{
+    color: #0F1035;
+    text-decoration: none;
+}
+footer{
+    color: #DCF2F1!important;
+    text-align: right;
+}
+.btn{
+    float:inline-end
+}

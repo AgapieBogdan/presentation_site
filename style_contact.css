@@ -1,0 +1,45 @@
+img{
+width: 20vh;
+border-radius: 25%;
+border-style: solid;
+border-color: #365486;
+float:right;
+}
+body{
+    background-color: #7FC7D9;
+    font-family: 'Roboto Mono', monospace;
+
+}
+h2{
+    color:#365486;
+    text-align: center;
+}
+.nav-link{
+    color: #365486;
+}
+ul.nav a:hover { 
+    color: #DCF2F1;
+}
+.nav-pills .nav-link.active
+{
+    background-color: #0F1035;
+}
+.contact_info{
+    text-align: left;
+}
+h4{
+    display: inline-block;
+    font-size: 1.5rem;
+
+}
+.a_1{
+    color:#365486 ;
+}
+footer{
+    color: #DCF2F1!important;
+    text-align: right;
+    margin-top: 40vh;
+}
+a{
+    text-decoration: none;
+}

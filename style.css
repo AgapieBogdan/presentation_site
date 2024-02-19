@@ -1,0 +1,60 @@
+.nav-link{
+    color: #365486;
+}
+ul.nav a:hover { 
+    color: #DCF2F1;
+}
+.nav-pills .nav-link.active
+{
+    background-color: #0F1035;
+}
+footer{
+    text-align: right;
+    color: #DCF2F1;
+    margin-top: 3rem;
+}
+body{
+        background-color: #7FC7D9;
+        font-family: 'Roboto Mono', monospace!important;
+    
+    }
+.titlu{
+    color: #211C6A;
+}
+h6{
+    color:#365486;
+}
+.portret{
+float:right;
+width: 15%;
+height: 15%;
+border: solid 2px;
+border-color: #211C6A;
+border-radius: 50%;
+}
+.titlu_div{
+float: inherit;
+}
+#subtitlu{
+    color:#365486;
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+    color:#365486!important;
+    font-size: 0.8rem; 
+}
+.row{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+    background-color: #DCF2F1;
+}
+.card-title{
+    color:#211C6A!important;
+}
+.titludreapta{
+    text-align: right;
+}
